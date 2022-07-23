@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		091341ED288B93E00093029B /* EmojiSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091341EC288B93E00093029B /* EmojiSet.swift */; };
 		CDF702AB288B83A00016E63F /* boinkboinkdoinkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF702AA288B83A00016E63F /* boinkboinkdoinkApp.swift */; };
 		CDF702AD288B83A00016E63F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF702AC288B83A00016E63F /* ContentView.swift */; };
 		CDF702AF288B83A40016E63F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF702AE288B83A40016E63F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		091341EC288B93E00093029B /* EmojiSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiSet.swift; sourceTree = "<group>"; };
 		CDF702A7288B83A00016E63F /* boinkboinkdoink.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = boinkboinkdoink.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDF702AA288B83A00016E63F /* boinkboinkdoinkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boinkboinkdoinkApp.swift; sourceTree = "<group>"; };
 		CDF702AC288B83A00016E63F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				CDF702AA288B83A00016E63F /* boinkboinkdoinkApp.swift */,
 				CDF702AC288B83A00016E63F /* ContentView.swift */,
+				091341EC288B93E00093029B /* EmojiSet.swift */,
 				CDF702AE288B83A40016E63F /* Assets.xcassets */,
 				CDF702B0288B83A40016E63F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				091341ED288B93E00093029B /* EmojiSet.swift in Sources */,
 				CDF702AD288B83A00016E63F /* ContentView.swift in Sources */,
 				CDF702AB288B83A00016E63F /* boinkboinkdoinkApp.swift in Sources */,
 			);
