@@ -1,13 +1,13 @@
 //
-//  BouncyView.swift
+//  EmojiBouncyView.swift
 //  boinkboinkdoink
 //
-//  Created by T Krobot on 23/7/22.
+//  Created by Seth Loh on 23/7/22.
 //
 
 import UIKit
 
-class BouncyView: UIView, UICollisionBehaviorDelegate {
+class EmojiBouncyView: UIView, UICollisionBehaviorDelegate {
     
     var animator: UIDynamicAnimator!
     var collisions: UICollisionBehavior!
