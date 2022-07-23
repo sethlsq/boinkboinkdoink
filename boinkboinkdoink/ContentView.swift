@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     var emojiSets = [
-        EmojiSet(name: "Default", emojis: ["👍", "🐔", "🤔", "🎶"])
+        EmojiSet(name: "Default", emojis: ["👍", "🍞", "🥖", "🎈"])
     ]
     
     var body: some View {
