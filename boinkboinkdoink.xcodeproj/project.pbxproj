@@ -12,6 +12,7 @@
 		CDF702AD288B83A00016E63F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF702AC288B83A00016E63F /* ContentView.swift */; };
 		CDF702AF288B83A40016E63F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF702AE288B83A40016E63F /* Assets.xcassets */; };
 		CDF702B2288B83A40016E63F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF702B1288B83A40016E63F /* Preview Assets.xcassets */; };
+		D9A9EB2E288B959A004563DF /* EmojiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A9EB2D288B959A004563DF /* EmojiView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		CDF702AC288B83A00016E63F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CDF702AE288B83A40016E63F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDF702B1288B83A40016E63F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9A9EB2D288B959A004563DF /* EmojiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				CDF702AA288B83A00016E63F /* boinkboinkdoinkApp.swift */,
 				CDF702AC288B83A00016E63F /* ContentView.swift */,
 				091341EC288B93E00093029B /* EmojiSet.swift */,
+				D9A9EB2D288B959A004563DF /* EmojiView.swift */,
 				CDF702AE288B83A40016E63F /* Assets.xcassets */,
 				CDF702B0288B83A40016E63F /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				091341ED288B93E00093029B /* EmojiSet.swift in Sources */,
+				D9A9EB2E288B959A004563DF /* EmojiView.swift in Sources */,
 				CDF702AD288B83A00016E63F /* ContentView.swift in Sources */,
 				CDF702AB288B83A00016E63F /* boinkboinkdoinkApp.swift in Sources */,
 			);
